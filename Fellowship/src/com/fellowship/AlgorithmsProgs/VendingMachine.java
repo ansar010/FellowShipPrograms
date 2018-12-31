@@ -1,4 +1,4 @@
-package com.fellowShip.AlgorithmsProgs;
+package com.fellowship.AlgorithmsProgs;
 
 import com.fellowship.utilities.Utility;
 

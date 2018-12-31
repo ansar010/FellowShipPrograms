@@ -15,7 +15,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
-import com.fellowShip.AlgorithmsProgs.BinarryNibble;
+import com.fellowship.AlgorithmsProgs.BinarryNibble;
 public class Utility {
 	/**
 	 * static Scanner and Random class objects to to call inbuilt methods 

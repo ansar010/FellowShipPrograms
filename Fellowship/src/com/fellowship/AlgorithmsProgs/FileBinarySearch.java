@@ -5,7 +5,7 @@
  * @version 1.2
  * @since 27/12/2018
  ******************************************************************************/
-package com.fellowShip.AlgorithmsProgs;
+package com.fellowship.AlgorithmsProgs;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

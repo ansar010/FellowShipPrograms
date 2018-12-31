@@ -1,4 +1,4 @@
-package com.fellowShip.AlgorithmsProgs;
+package com.fellowship.AlgorithmsProgs;
 
 public class con {
 public static void main(String[] args) {

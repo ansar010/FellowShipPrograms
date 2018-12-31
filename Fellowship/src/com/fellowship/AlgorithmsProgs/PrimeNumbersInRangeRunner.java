@@ -5,7 +5,7 @@
  * @version 1.2
  * @since 24/12/2018
  ******************************************************************************/  
-package com.fellowShip.AlgorithmsProgs;
+package com.fellowship.AlgorithmsProgs;
 
 import com.fellowship.utilities.Utility;
 
